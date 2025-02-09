@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: talkingbots-cli
+Version: 0.1.0
+Summary: A CLI tool that enables users to create conversations between multiple large language models
+Home-page: https://github.com/nilmd/talkingbots-cli
+Author: NilMD
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU GPLv3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Requires-Dist: ollama
+Requires-Dist: typer[all]
+Requires-Dist: rich
+Dynamic: author
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

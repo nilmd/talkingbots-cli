@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/__init__.py
+src/conversation.py
+src/main.py
+src/models.py
+src/utils.py
+talkingbots_cli.egg-info/PKG-INFO
+talkingbots_cli.egg-info/SOURCES.txt
+talkingbots_cli.egg-info/dependency_links.txt
+talkingbots_cli.egg-info/entry_points.txt
+talkingbots_cli.egg-info/requires.txt
+talkingbots_cli.egg-info/top_level.txt
